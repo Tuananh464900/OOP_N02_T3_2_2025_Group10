@@ -9,7 +9,9 @@ Thành viên
 2.Nguyễn Lệ Thu githubid:lethunguyen
 
 Ứng dụng: Xây dựng quản lý kho hàng
+
 Phân tích đối tượng
+
 Người dùng:
 ID người dùng
 Tên đăng nhập
@@ -37,6 +39,9 @@ Hình thức thanh toán (tiền mặt, chuyển khoản, QR...)
 Trạng thái đơn hàng (đã thanh toán, đang xử lý, huỷ, trả hàng…)
 Phiếu nhập hàng:
 ID phiếu nhập
+số lượng sản phẩm
+tên sản phẩm
+giá nhập
 Ngày nhập
 Nhân viên thực hiện
 Tổng giá trị nhập
