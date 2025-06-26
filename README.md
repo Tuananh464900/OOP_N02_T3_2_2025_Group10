@@ -8,7 +8,7 @@ Thành viên
 
 2.Nguyễn Lệ Thu githubid:lethunguyen
 
-Ứng dụng: Xây dựng quản lý kho hàng
+# Ứng dụng: Xây dựng quản lý kho hàng
 
 
 # Mô tả các thực thể trong hệ thống quản lý kho hàng
