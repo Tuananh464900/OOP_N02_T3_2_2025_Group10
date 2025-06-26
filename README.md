@@ -10,7 +10,7 @@ Thành viên
 
 Ứng dụng: Xây dựng quản lý kho hàng
 
-Phân tích đối tượng
+
 # Mô tả các thực thể trong hệ thống quản lý kho hàng
 
 ## Người dùng
