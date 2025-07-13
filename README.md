@@ -21,21 +21,20 @@ Ví dụ
 
 Hướng phát triển
 
-Bản quyền
 
 ✨ Giới thiệu
 
 Đây là ứng dụng Quản lý Kho Hàng được xây dựng theo hướng lập trình hướng đối tượng (OOP), cho phép:
 
-Sản phẩm (Product)
+Quản lý sản phẩm (Product)
 
-Đối tác: khách hàng/nhà cung cấp (Partner)
+Quản lý đối tác: khách hàng/nhà cung cấp (Partner)
 
 Giao dịch nhập/xuất (Transaction)
 
 👥 Thành viên
 
-Hồ Tuấn Anh (24100032) – Tuananh464900
+Hồ Tuấn Anh (24100464) – Tuananh464900
 
 🌐 Ứng dụng
 
