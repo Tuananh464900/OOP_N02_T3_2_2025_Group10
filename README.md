@@ -25,7 +25,7 @@ Bản quyền
 
 ✨ Giới thiệu
 
-Đây là ứng dụng Quản lý Thư viện được xây dựng theo hướng lập trình hướng đối tượng (OOP), cho phép:
+Đây là ứng dụng Quản lý Kho Hàng được xây dựng theo hướng lập trình hướng đối tượng (OOP), cho phép:
 
 Sản phẩm (Product)
 
@@ -54,7 +54,7 @@ Maven hoặc IDE hỗ trợ (IntelliJ, Visual Studio Code…)
 
 ⚙️ Cài đặt & Chạy
 
-git clone 
+git clone https://github.com/Tuananh464900/OOP_N02_T3_2_2025_Group10
 
 🗂️ Cấu trúc thư mục
 
@@ -78,9 +78,5 @@ Thêm giao diện GUI
 
 Kết nối cơ sở dữ liệu
 
-📄 Bản quyền
 
-MIT License. © 2025
-
-Clone repo:
 
