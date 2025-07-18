@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+public class NhapSanPham {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        
+        System.out.println("NHẬP THÔNG TIN SẢN PHẨM");
+        System.out.println("----------------------");
+        
+        // Nhập thông tin sản phẩm
+        System.out.print("Mã sản phẩm: ");
+        String maSP = sc.nextLine();
+        
+        System.out.print("Tên sản phẩm: ");
+        String tenSP = sc.nextLine();
+        
+        System.out.print("Giá bán: ");
+        double gia = sc.nextDouble();
+        
+        System.out.print("Số lượng: ");
+        int soLuong = sc.nextInt();
+        
+        // Hiển thị kết quả
+        System.out.println("\nTHÔNG TIN SẢN PHẨM VỪA NHẬP");
+        System.out.println("----------------------");
+        System.out.println("Mã SP: " + maSP);
+        System.out.println("Tên SP: " + tenSP);
+        System.out.printf("Giá bán: %.2f\n", gia);
+        System.out.println("Số lượng: " + soLuong);
+    }
+}

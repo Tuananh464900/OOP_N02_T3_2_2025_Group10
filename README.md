@@ -1,57 +1,81 @@
-# OOP_N02_T3_2_2025_Group10
-
-Nhóm làm việc
-
-Thành viên
-
-1.Hồ Tuấn Anh (24100464) githubid:Tuananh464900
-
-2.Nguyễn Lệ Thu githubid:lethunguyen
-
 # Ứng dụng: Xây dựng quản lý kho hàng
 
 
-# Phân tích đối tượng
+📋 Mục lục
 
-## Người dùng
-- ID người dùng
-- Tên đăng nhập
-- Mật khẩu
-- Họ tên
-- Vai trò
+Giới thiệu
 
-## Sản phẩm
-- ID sản phẩm
-- Tên sản phẩm
-- Giá bán
-- Giá nhập
-- Số lượng tồn kho
-- Danh mục sản phẩm
+Thành viên
 
-## Danh mục sản phẩm
-- ID danh mục
-- Tên danh mục
+Ứng dụng
 
-## Đơn hàng (Chi tiết đơn hàng)
-- ID đơn hàng
-- ID sản phẩm
-- Số lượng
-- Đơn giá
-- Giảm giá (nếu có)
-- Thành tiền
-- Hình thức thanh toán (tiền mặt, chuyển khoản, QR...)
-- Trạng thái đơn hàng (đã thanh toán, đang xử lý, huỷ, trả hàng…)
+Yêu cầu
 
-## Phiếu nhập hàng
-- ID phiếu nhập
-- Số lượng sản phẩm
-- Tên sản phẩm
-- Giá nhập
-- Ngày nhập
-- Nhân viên thực hiện
-- Tổng giá trị nhập
+Cài đặt--Chạy
 
-## Kho hàng
-- ID sản phẩm
-- Số lượng hiện tại
-- Ngày cập nhật cuối
+Cấu trúc thư mục
+
+Mô tả đối tượng
+
+Ví dụ
+
+Hướng phát triển
+
+
+✨ Giới thiệu
+
+Đây là ứng dụng Quản lý Kho Hàng được xây dựng theo hướng lập trình hướng đối tượng (OOP), cho phép:
+
+Quản lý sản phẩm (Product)
+
+Quản lý đối tác: khách hàng/nhà cung cấp (Partner)
+
+Giao dịch nhập/xuất (Transaction)
+
+👥 Thành viên
+
+Hồ Tuấn Anh (24100464) – Tuananh464900
+
+🌐 Ứng dụng
+
+Quản lý sản phẩm
+
+Quản lý đối tác
+
+Giao dịch nhập/xuất kho
+
+
+📆 Yêu cầu
+
+Java 11 hoặc cao hơn
+
+Maven hoặc IDE hỗ trợ (IntelliJ, Visual Studio Code…)
+
+⚙️ Cài đặt & Chạy
+
+git clone https://github.com/Tuananh464900/OOP_N02_T3_2_2025_Group10.git
+
+🗂️ Cấu trúc thư mục
+
+OOP_N02_T3_2_2025_Group1/ ├── src/ │ ├── Product.java │ ├── Partner.java │ ├── Transaction.java ├── Main.java
+
+📚 Mô tả đối tượng
+
+Product: Đại diện cho hàng hóa trong kho
+
+Partner: Người/đơn vị liên quan đến giao dịch (khách hàng, nhà cung cấp…)
+
+ Transaction: Ghi nhận nhập hoặc xuất hàng
+
+📖 Ví dụ
+
+Product product1 = new Product("P001", "Laptop", "Electronics", "Cai", 10, 15000, 18000);
+
+✨ Hướng phát triển
+
+Thêm giao diện GUI
+
+Kết nối cơ sở dữ liệu
+
+
+
