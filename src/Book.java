@@ -32,7 +32,7 @@ public class Book {
         return this;
     }
 
-    // 🟢 Đây là phương thức bị thiếu mà gây ra lỗi
+    // Đây là phương thức bị thiếu mà gây ra lỗi
     public Book incrementPages() {
         this.numPages++;  // tăng số trang lên 1
         return this;      // trả về chính đối tượng để method chaining
