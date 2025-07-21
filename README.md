@@ -77,5 +77,16 @@ Thêm giao diện GUI
 
 Kết nối cơ sở dữ liệu
 
+# Quản lý kho hàng
+
+Dự án này là ứng dụng quản lý sản phẩm, cho phép bạn thêm, sửa, xóa và hiển thị các sản phẩm trong kho hàng.
+
+## Các tính năng
+- Thêm sản phẩm mới vào kho.
+- Cập nhật thông tin sản phẩm.
+- Xóa sản phẩm khỏi kho.
+- Hiển thị danh sách tất cả các sản phẩm trong kho.
+
+
 
 
